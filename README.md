@@ -14,6 +14,6 @@ My background is in software engineering but I am really passionate about design
 * Blog about my creations
 
 ###Here is a picture of a sand-dollar artwork I made recently:
-![alt text](path to file)
+![sand dollar art](github.jpg)
 
 Here is a link to my personal [blog](https://howzzart.wordpress.com)
